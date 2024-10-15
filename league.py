@@ -1,5 +1,7 @@
 import numpy as np
 from itertools import combinations
+from player import Player
+from team import Team
 
 class League:
     def __init__(self):
